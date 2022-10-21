@@ -8,7 +8,6 @@ const Ball: React.FC<BallProps> = props => {
   return (
     <div className="ball">
       {props.number}
-
     </div>
   );
 };
